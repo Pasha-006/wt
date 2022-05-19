@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students-details>
+	<student>
+		<studentid>597</studentid>
+		<name>ANISHA</name>
+		<address>MALKAGIRI</address>
+		<gender>Female</gender>
+		</student>
+	<student>
+		<studentid>598</studentid>
+		<name>DIVYA     </name>
+		<address>MEDCHAL</address>
+		<gender>Female</gender>
+	</student>
+	<student>
+		<studentid>599</studentid>
+		<name>SAI ABHISHEK</name>
+		<address>MUSHEERABAD </address>
+		<gender>Male</gender>
+	</student>
+	<student>
+		<studentid>5A0</studentid>
+		<name>RADHA KRISHNA REVANTH</name>
+		<address>VANASTHALIPURAM</address>
+		<gender>Male</gender>
+	</student>
+	<student>
+		<studentid>5A1</studentid>
+		<name>STEEN</name>
+		<address>NAGARAM</address>
+		<gender>Male</gender>
+	</student>
+	<student>
+		<studentid>5A2</studentid>
+		<name>SHREYA SREE </name>
+		<address>NAGARAM</address>
+		<gender>Femaleale</gender>
+	</student>
+	<student>
+		<studentid>5A3</studentid>
+		<name>SURYA VENKAT </name>
+		<address>SECUNDERABAD</address>
+		<gender>Male</gender>
+	</student>
+	<student>
+		<studentid>5A4</studentid>
+		<name> NANDA KISHORE   </name>
+		<address>NEREDMET </address>
+		<gender>Male</gender>
+	</student>
+	<student>
+		<studentid>5A5</studentid>
+		<name>CHARAN RAJU</name>
+		<address>MOULA-ALI</address>
+		<gender>Male</gender>
+	</student>
+	<student>
+		<studentid>5A6</studentid>
+		<name>BALARAM</name>
+		<address>A S RAO NAGAR</address>
+		<gender>Male</gender>
+	</student>
+</students-details>
