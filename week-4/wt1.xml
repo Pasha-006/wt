@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="WT.xsd">
+<book>
+<title>Web Technology</title>
+<author>chris.C</author>
+<ISBN>123-456-789</ISBN>
+<publisher>person</publisher>
+<edition>3</edition>
+<price>350</price>
+</book>
+<book>
+<title>Internet(WWW)</title>
+<author>ditel.A</author>
+<ISBN>133-446-899</ISBN>
+<publisher>person</publisher>
+<edition>5</edition>
+<price>650</price>
+</book>
+</bookstore>
